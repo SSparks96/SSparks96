@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSparks96
-- 👀 I’m a new grad that is looking to gain experience and add projects to my Github.
+- 👀 I’m a new grad that is looking to gain experience and add projects to my Github profile.
 - 🌱 I’m currently learning more on unit testing so I can add those to my projects
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me at stephen.sparks96@gmail.com
